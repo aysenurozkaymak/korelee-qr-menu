@@ -1,0 +1,14 @@
+# Node/Vite
+node_modules
+dist
+.vite
+.DS_Store
+*.log
+
+# Env (ileride Supabase vs.)
+.env
+.env.*
+
+# Opsiyonel (mobil klasörleri üretirsen)
+android/
+ios/
